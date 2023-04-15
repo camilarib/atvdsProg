@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: #f96ea1;
+    color: black;
+}
+
+#img-topo{
+    background: white;
+}
+
+.input-group-text{
+    background: #f96ea1;
+    border-color: #f96ea1;
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #f2058b;
+    border-radius: 8px;
+    width: 100%;
+    padding: 8px 15px;
+    margin: 5px 0;
+}

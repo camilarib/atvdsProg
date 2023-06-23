@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: #FCDDB0; /*trocs o fundo do site*/
+}
+
+h1 {
+    border-bottom-style: inset;
+    color: red;
+}
+

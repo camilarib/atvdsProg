@@ -1,0 +1,22 @@
+body { /*Editar no geral(colocar fonte em toda a página)*/
+    margin: 5; /*margem do site*/
+    background-color: #FFD1D1;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul {  /*Editar lista do html*/
+    list-style: none;
+    font-weight: bold;/*negrito*/
+}
+
+a { /*Editar Links*/
+    text-decoration: none;
+    color: #FF9494;
+}
+
+h1 { /*Editar Título*/
+    color: #dd4848;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mynerve', cursive;
+}

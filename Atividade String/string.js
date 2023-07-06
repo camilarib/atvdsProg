@@ -11,8 +11,7 @@ frm.addEventListener("submit", (e) => {
     const palavra = String(frm.inpalavra.value);
     const posicao = String(frm.inposicao.value);
 
-    console.log(insertString(Frase, palavra, posicao));
-})
+});    
 
 function insertString(Frase, palavra, posicao){
     const charArray = Frase.split(""); 
